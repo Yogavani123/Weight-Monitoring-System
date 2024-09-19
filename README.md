@@ -19,7 +19,7 @@ The Weight Monitoring System is designed to monitor and track weight using an ES
 - **Arduino**: Used to execute the code.
 
 ## Circuit Diagram
-Refer to the `circuit Diagram.png` file in the repository for detailed connections.
+Refer to the `circuitdiagram.png` file in the repository for detailed connections.
 
 ## Installation
 1. **Clone the Repository**:
