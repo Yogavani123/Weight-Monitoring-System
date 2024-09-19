@@ -47,8 +47,11 @@ Echo to GPIO 18
 SDA to GPIO 21
 SCL to GPIO 22
 ## Usage
-## Connect the Hardware: Ensure all components are connected as per the circuit diagram.
-## Calibrate the Load Cell: Follow the calibration instructions in the docs folder.
-## Start Monitoring: Power on the system and begin monitoring weight and distance.
+## Connect the Hardware:
+Ensure all components are connected as per the circuit diagram.
+## Calibrate the Load Cell:
+Follow the calibration instructions in the docs folder.
+## Start Monitoring:
+Power on the system and begin monitoring weight and distance.
 ## Contributing
 We welcome contributions! Please read our Contributing Guidelines for more details.
